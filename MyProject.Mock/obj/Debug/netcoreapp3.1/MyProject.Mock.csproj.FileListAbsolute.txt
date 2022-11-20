@@ -1,0 +1,25 @@
+C:\Users\user1\Desktop\MyProject\MyProject.Mock\bin\Debug\netcoreapp3.1\MyProject.Mock.deps.json
+C:\Users\user1\Desktop\MyProject\MyProject.Mock\bin\Debug\netcoreapp3.1\MyProject.Mock.dll
+C:\Users\user1\Desktop\MyProject\MyProject.Mock\bin\Debug\netcoreapp3.1\MyProject.Mock.pdb
+C:\Users\user1\Desktop\MyProject\MyProject.Mock\bin\Debug\netcoreapp3.1\MyProject.Repositories.dll
+C:\Users\user1\Desktop\MyProject\MyProject.Mock\bin\Debug\netcoreapp3.1\MyProject.Repositories.pdb
+C:\Users\user1\Desktop\MyProject\MyProject.Mock\obj\Debug\netcoreapp3.1\MyProject.Mock.csproj.AssemblyReference.cache
+C:\Users\user1\Desktop\MyProject\MyProject.Mock\obj\Debug\netcoreapp3.1\MyProject.Mock.AssemblyInfoInputs.cache
+C:\Users\user1\Desktop\MyProject\MyProject.Mock\obj\Debug\netcoreapp3.1\MyProject.Mock.AssemblyInfo.cs
+C:\Users\user1\Desktop\MyProject\MyProject.Mock\obj\Debug\netcoreapp3.1\MyProject.Mock.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\MyProject\MyProject.Mock\obj\Debug\netcoreapp3.1\MyProject.Mock.csproj.CopyComplete
+C:\Users\user1\Desktop\MyProject\MyProject.Mock\obj\Debug\netcoreapp3.1\MyProject.Mock.dll
+C:\Users\user1\Desktop\MyProject\MyProject.Mock\obj\Debug\netcoreapp3.1\MyProject.Mock.pdb
+C:\Users\user1\Documents\דוטנט\my projects\.net\MyProject\MyProject.Mock\bin\Debug\netcoreapp3.1\MyProject.Mock.deps.json
+C:\Users\user1\Documents\דוטנט\my projects\.net\MyProject\MyProject.Mock\bin\Debug\netcoreapp3.1\MyProject.Mock.dll
+C:\Users\user1\Documents\דוטנט\my projects\.net\MyProject\MyProject.Mock\bin\Debug\netcoreapp3.1\MyProject.Mock.pdb
+C:\Users\user1\Documents\דוטנט\my projects\.net\MyProject\MyProject.Mock\bin\Debug\netcoreapp3.1\MyProject.Repositories.dll
+C:\Users\user1\Documents\דוטנט\my projects\.net\MyProject\MyProject.Mock\bin\Debug\netcoreapp3.1\MyProject.Repositories.pdb
+C:\Users\user1\Documents\דוטנט\my projects\.net\MyProject\MyProject.Mock\obj\Debug\netcoreapp3.1\MyProject.Mock.csproj.AssemblyReference.cache
+C:\Users\user1\Documents\דוטנט\my projects\.net\MyProject\MyProject.Mock\obj\Debug\netcoreapp3.1\MyProject.Mock.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Documents\דוטנט\my projects\.net\MyProject\MyProject.Mock\obj\Debug\netcoreapp3.1\MyProject.Mock.AssemblyInfoInputs.cache
+C:\Users\user1\Documents\דוטנט\my projects\.net\MyProject\MyProject.Mock\obj\Debug\netcoreapp3.1\MyProject.Mock.AssemblyInfo.cs
+C:\Users\user1\Documents\דוטנט\my projects\.net\MyProject\MyProject.Mock\obj\Debug\netcoreapp3.1\MyProject.Mock.csproj.CoreCompileInputs.cache
+C:\Users\user1\Documents\דוטנט\my projects\.net\MyProject\MyProject.Mock\obj\Debug\netcoreapp3.1\MyProject.Mock.csproj.CopyComplete
+C:\Users\user1\Documents\דוטנט\my projects\.net\MyProject\MyProject.Mock\obj\Debug\netcoreapp3.1\MyProject.Mock.dll
+C:\Users\user1\Documents\דוטנט\my projects\.net\MyProject\MyProject.Mock\obj\Debug\netcoreapp3.1\MyProject.Mock.pdb
