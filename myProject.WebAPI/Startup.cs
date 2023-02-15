@@ -10,6 +10,8 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
+using myProject.WebAPI.MiddleWare;
+using MyProject.Context;
 using MyProject.Mock;
 using MyProject.Repositories.Interfaces;
 using MyProject.Repositories.Repositories;
@@ -38,13 +40,14 @@ namespace myProject.WebAPI
                                       policy.WithOrigins("*");
                                   });
             });
-            services.AddScoped<IRoleRepository,RoleRepository>();
-            services.AddScoped<IClaimRepository,ClaimRepository>();
-            services.AddScoped<IPermissionRepository,PermissionRepository>();
-            services.AddSingleton<IContext,MockContext>();
+            services.AddScoped<IContext, MyDBContext>();
+            services.AddServices();
+            //services.AddSingleton<IContext,MockContext>();
             services.AddControllers();
-
-            services.AddAutoMapper(typeof(Mapping));
+           
+            services.AddSwaggerGen();
+ 
+           
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -65,8 +68,9 @@ namespace myProject.WebAPI
                  .AllowAnyMethod()
                  .AllowAnyHeader());
 
-
             app.UseAuthorization();
+        //    app.UseTrack();
+
 
             app.UseEndpoints(endpoints =>
             {

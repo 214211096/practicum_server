@@ -23,3 +23,15 @@ C:\Users\user1\Documents\דוטנט\my projects\.net\MyProject\MyProject.Mock\ob
 C:\Users\user1\Documents\דוטנט\my projects\.net\MyProject\MyProject.Mock\obj\Debug\netcoreapp3.1\MyProject.Mock.csproj.CopyComplete
 C:\Users\user1\Documents\דוטנט\my projects\.net\MyProject\MyProject.Mock\obj\Debug\netcoreapp3.1\MyProject.Mock.dll
 C:\Users\user1\Documents\דוטנט\my projects\.net\MyProject\MyProject.Mock\obj\Debug\netcoreapp3.1\MyProject.Mock.pdb
+Y:\Groups\1\בן ציון חנה\דוטנט\my projects\.net\MyProject\MyProject.Mock\bin\Debug\netcoreapp3.1\MyProject.Mock.deps.json
+Y:\Groups\1\בן ציון חנה\דוטנט\my projects\.net\MyProject\MyProject.Mock\bin\Debug\netcoreapp3.1\MyProject.Mock.dll
+Y:\Groups\1\בן ציון חנה\דוטנט\my projects\.net\MyProject\MyProject.Mock\bin\Debug\netcoreapp3.1\MyProject.Mock.pdb
+Y:\Groups\1\בן ציון חנה\דוטנט\my projects\.net\MyProject\MyProject.Mock\bin\Debug\netcoreapp3.1\MyProject.Repositories.dll
+Y:\Groups\1\בן ציון חנה\דוטנט\my projects\.net\MyProject\MyProject.Mock\bin\Debug\netcoreapp3.1\MyProject.Repositories.pdb
+Y:\Groups\1\בן ציון חנה\דוטנט\my projects\.net\MyProject\MyProject.Mock\obj\Debug\netcoreapp3.1\MyProject.Mock.csproj.AssemblyReference.cache
+Y:\Groups\1\בן ציון חנה\דוטנט\my projects\.net\MyProject\MyProject.Mock\obj\Debug\netcoreapp3.1\MyProject.Mock.AssemblyInfoInputs.cache
+Y:\Groups\1\בן ציון חנה\דוטנט\my projects\.net\MyProject\MyProject.Mock\obj\Debug\netcoreapp3.1\MyProject.Mock.AssemblyInfo.cs
+Y:\Groups\1\בן ציון חנה\דוטנט\my projects\.net\MyProject\MyProject.Mock\obj\Debug\netcoreapp3.1\MyProject.Mock.csproj.CoreCompileInputs.cache
+Y:\Groups\1\בן ציון חנה\דוטנט\my projects\.net\MyProject\MyProject.Mock\obj\Debug\netcoreapp3.1\MyProject.Mock.csproj.CopyComplete
+Y:\Groups\1\בן ציון חנה\דוטנט\my projects\.net\MyProject\MyProject.Mock\obj\Debug\netcoreapp3.1\MyProject.Mock.dll
+Y:\Groups\1\בן ציון חנה\דוטנט\my projects\.net\MyProject\MyProject.Mock\obj\Debug\netcoreapp3.1\MyProject.Mock.pdb

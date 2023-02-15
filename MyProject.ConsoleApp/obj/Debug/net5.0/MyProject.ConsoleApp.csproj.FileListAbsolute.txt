@@ -3,3 +3,8 @@ C:\Users\user1\Documents\דוטנט\my projects\.net\MyProject\MyProject.Console
 C:\Users\user1\Documents\דוטנט\my projects\.net\MyProject\MyProject.ConsoleApp\obj\Debug\net5.0\MyProject.ConsoleApp.AssemblyInfoInputs.cache
 C:\Users\user1\Documents\דוטנט\my projects\.net\MyProject\MyProject.ConsoleApp\obj\Debug\net5.0\MyProject.ConsoleApp.AssemblyInfo.cs
 C:\Users\user1\Documents\דוטנט\my projects\.net\MyProject\MyProject.ConsoleApp\obj\Debug\net5.0\MyProject.ConsoleApp.csproj.CoreCompileInputs.cache
+Y:\Groups\1\בן ציון חנה\דוטנט\my projects\.net\MyProject\MyProject.ConsoleApp\obj\Debug\net5.0\MyProject.ConsoleApp.csproj.AssemblyReference.cache
+Y:\Groups\1\בן ציון חנה\דוטנט\my projects\.net\MyProject\MyProject.ConsoleApp\obj\Debug\net5.0\MyProject.ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+Y:\Groups\1\בן ציון חנה\דוטנט\my projects\.net\MyProject\MyProject.ConsoleApp\obj\Debug\net5.0\MyProject.ConsoleApp.AssemblyInfoInputs.cache
+Y:\Groups\1\בן ציון חנה\דוטנט\my projects\.net\MyProject\MyProject.ConsoleApp\obj\Debug\net5.0\MyProject.ConsoleApp.AssemblyInfo.cs
+Y:\Groups\1\בן ציון חנה\דוטנט\my projects\.net\MyProject\MyProject.ConsoleApp\obj\Debug\net5.0\MyProject.ConsoleApp.csproj.CoreCompileInputs.cache

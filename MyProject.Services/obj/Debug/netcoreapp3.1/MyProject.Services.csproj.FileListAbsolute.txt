@@ -13,3 +13,17 @@ C:\Users\user1\Documents\דוטנט\my projects\.net\MyProject\MyProject.Service
 C:\Users\user1\Documents\דוטנט\my projects\.net\MyProject\MyProject.Services\obj\Debug\netcoreapp3.1\MyProject.Services.csproj.CopyComplete
 C:\Users\user1\Documents\דוטנט\my projects\.net\MyProject\MyProject.Services\obj\Debug\netcoreapp3.1\MyProject.Services.dll
 C:\Users\user1\Documents\דוטנט\my projects\.net\MyProject\MyProject.Services\obj\Debug\netcoreapp3.1\MyProject.Services.pdb
+Y:\Groups\1\בן ציון חנה\דוטנט\my projects\.net\MyProject\MyProject.Services\bin\Debug\netcoreapp3.1\MyProject.Services.deps.json
+Y:\Groups\1\בן ציון חנה\דוטנט\my projects\.net\MyProject\MyProject.Services\bin\Debug\netcoreapp3.1\MyProject.Services.dll
+Y:\Groups\1\בן ציון חנה\דוטנט\my projects\.net\MyProject\MyProject.Services\bin\Debug\netcoreapp3.1\MyProject.Services.pdb
+Y:\Groups\1\בן ציון חנה\דוטנט\my projects\.net\MyProject\MyProject.Services\bin\Debug\netcoreapp3.1\MyProject.Common.dll
+Y:\Groups\1\בן ציון חנה\דוטנט\my projects\.net\MyProject\MyProject.Services\bin\Debug\netcoreapp3.1\MyProject.Repositories.dll
+Y:\Groups\1\בן ציון חנה\דוטנט\my projects\.net\MyProject\MyProject.Services\bin\Debug\netcoreapp3.1\MyProject.Common.pdb
+Y:\Groups\1\בן ציון חנה\דוטנט\my projects\.net\MyProject\MyProject.Services\bin\Debug\netcoreapp3.1\MyProject.Repositories.pdb
+Y:\Groups\1\בן ציון חנה\דוטנט\my projects\.net\MyProject\MyProject.Services\obj\Debug\netcoreapp3.1\MyProject.Services.csproj.AssemblyReference.cache
+Y:\Groups\1\בן ציון חנה\דוטנט\my projects\.net\MyProject\MyProject.Services\obj\Debug\netcoreapp3.1\MyProject.Services.AssemblyInfoInputs.cache
+Y:\Groups\1\בן ציון חנה\דוטנט\my projects\.net\MyProject\MyProject.Services\obj\Debug\netcoreapp3.1\MyProject.Services.AssemblyInfo.cs
+Y:\Groups\1\בן ציון חנה\דוטנט\my projects\.net\MyProject\MyProject.Services\obj\Debug\netcoreapp3.1\MyProject.Services.csproj.CoreCompileInputs.cache
+Y:\Groups\1\בן ציון חנה\דוטנט\my projects\.net\MyProject\MyProject.Services\obj\Debug\netcoreapp3.1\MyProject.Services.csproj.CopyComplete
+Y:\Groups\1\בן ציון חנה\דוטנט\my projects\.net\MyProject\MyProject.Services\obj\Debug\netcoreapp3.1\MyProject.Services.dll
+Y:\Groups\1\בן ציון חנה\דוטנט\my projects\.net\MyProject\MyProject.Services\obj\Debug\netcoreapp3.1\MyProject.Services.pdb

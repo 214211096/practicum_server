@@ -2,13 +2,19 @@
 using System;
 using System.Collections.Generic;
 using System.Text;
+using System.Threading.Tasks;
+using System.Threading;
+using Microsoft.EntityFrameworkCore;
 
 namespace MyProject.Repositories.Interfaces
 {
    public interface IContext
     {
-        public List <Role> Roles { get; set; }
-        public List <Claim> Claims { get; set; }
-        public List <Permission> Permissions { get; set; }
+        public DbSet<User> MyUsers { get; set; }
+        public DbSet<Child> MyChildren { get; set; }
+
+        int SaveChanges();
+
+        Task<int> SaveChangesAsync(CancellationToken cancellationToken = default(CancellationToken));
     }
 }

@@ -11,9 +11,14 @@ namespace MyProject.Services
     {
         public Mapping()
         {
-            CreateMap<Role, RolleDTO>().ReverseMap();
-            CreateMap<Permission, PermissionDTO>().ReverseMap();
-            CreateMap<Claim, ClaimDTO>().ForMember(dest => dest.PolicyType, opt => opt.MapFrom(src=>src.Policy)).ReverseMap();
+            CreateMap<Child, ChildDTO>().ReverseMap();
+            //CreateMap<User, UserDTO>().ReverseMap();
+
+
+            CreateMap<User, UserDTO>().ForMember(dest => dest.HMO, opt => opt.MapFrom(src => src.HMO))
+              .ForMember(dest => dest.Gender, opt => opt.MapFrom(src => src.Gender)).ReverseMap();
+
+
         }
     }
 }
