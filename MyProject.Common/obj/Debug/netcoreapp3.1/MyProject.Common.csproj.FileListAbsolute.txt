@@ -1,0 +1,18 @@
+C:\Users\user1\Documents\דוטנט\my projects\.net\MyProject\MyProject.Common\bin\Debug\netcoreapp3.1\MyProject.Common.deps.json
+C:\Users\user1\Documents\דוטנט\my projects\.net\MyProject\MyProject.Common\bin\Debug\netcoreapp3.1\MyProject.Common.dll
+C:\Users\user1\Documents\דוטנט\my projects\.net\MyProject\MyProject.Common\bin\Debug\netcoreapp3.1\MyProject.Common.pdb
+C:\Users\user1\Documents\דוטנט\my projects\.net\MyProject\MyProject.Common\obj\Debug\netcoreapp3.1\MyProject.Common.csproj.AssemblyReference.cache
+C:\Users\user1\Documents\דוטנט\my projects\.net\MyProject\MyProject.Common\obj\Debug\netcoreapp3.1\MyProject.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Documents\דוטנט\my projects\.net\MyProject\MyProject.Common\obj\Debug\netcoreapp3.1\MyProject.Common.AssemblyInfoInputs.cache
+C:\Users\user1\Documents\דוטנט\my projects\.net\MyProject\MyProject.Common\obj\Debug\netcoreapp3.1\MyProject.Common.AssemblyInfo.cs
+C:\Users\user1\Documents\דוטנט\my projects\.net\MyProject\MyProject.Common\obj\Debug\netcoreapp3.1\MyProject.Common.csproj.CoreCompileInputs.cache
+C:\Users\user1\Documents\דוטנט\my projects\.net\MyProject\MyProject.Common\obj\Debug\netcoreapp3.1\MyProject.Common.dll
+C:\Users\user1\Documents\דוטנט\my projects\.net\MyProject\MyProject.Common\obj\Debug\netcoreapp3.1\MyProject.Common.pdb
+Y:\Groups\1\בן ציון חנה\דוטנט\my projects\.net\MyProject\MyProject.Common\bin\Debug\netcoreapp3.1\MyProject.Common.deps.json
+Y:\Groups\1\בן ציון חנה\דוטנט\my projects\.net\MyProject\MyProject.Common\bin\Debug\netcoreapp3.1\MyProject.Common.dll
+Y:\Groups\1\בן ציון חנה\דוטנט\my projects\.net\MyProject\MyProject.Common\bin\Debug\netcoreapp3.1\MyProject.Common.pdb
+Y:\Groups\1\בן ציון חנה\דוטנט\my projects\.net\MyProject\MyProject.Common\obj\Debug\netcoreapp3.1\MyProject.Common.AssemblyInfoInputs.cache
+Y:\Groups\1\בן ציון חנה\דוטנט\my projects\.net\MyProject\MyProject.Common\obj\Debug\netcoreapp3.1\MyProject.Common.AssemblyInfo.cs
+Y:\Groups\1\בן ציון חנה\דוטנט\my projects\.net\MyProject\MyProject.Common\obj\Debug\netcoreapp3.1\MyProject.Common.csproj.CoreCompileInputs.cache
+Y:\Groups\1\בן ציון חנה\דוטנט\my projects\.net\MyProject\MyProject.Common\obj\Debug\netcoreapp3.1\MyProject.Common.dll
+Y:\Groups\1\בן ציון חנה\דוטנט\my projects\.net\MyProject\MyProject.Common\obj\Debug\netcoreapp3.1\MyProject.Common.pdb
